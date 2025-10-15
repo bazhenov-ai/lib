@@ -4,5 +4,5 @@
 ___
 Читать - https://github.com/bazhenov-ai/lib/blob/main/bss/bss.md
 ___
-Аннотация - https://github.com/bazhenov-ai/lib/blob/main/bss/annotation_1500.txt
+Аннотация - https://github.com/bazhenov-ai/lib/blob/main/bss/annotation_1500.md
 ___
