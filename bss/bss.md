@@ -96,6 +96,8 @@ Bigger Snack Strategy — Стратегия Большого Перекуса?
 ![ekspediciya-chenjesu-mmrnmhrm-sol](ekspediciya-chenjesu-mmrnmhrm-sol.png)
 
 ------------
+------------
+------------
 
 ## Глава вторая. Ценный груз с запахом
 
@@ -228,6 +230,8 @@ Bigger Snack Strategy — Стратегия Большого Перекуса?
 
 ![ekspediciya-spathi](ekspediciya-spathi.png)
 
+------------
+------------
 ------------
 
 ## Глава третья. Предел прочности
@@ -529,6 +533,8 @@ Bigger Snack Strategy — Стратегия Большого Перекуса?
 ![ekspediciya-beta-gerkulesa](ekspediciya-beta-gerkulesa.png)
 
 ------------
+------------
+------------
 
 ## Глава пятая. Холодная война за горячую воду
 
@@ -678,14 +684,15 @@ Bigger Snack Strategy — Стратегия Большого Перекуса?
 
 ---
 
-#### Специально для Александра М., который так отчаянно рвался заняться обратной вычиткой:
-    https://github.com/bazhenov-ai/lib/blob/main/bss/backwards_proofreading.txt
+Специально для Александра М., который так отчаянно рвался заняться обратной вычиткой:
 
-А это программа, которая позволит ему потом самому переводить актуальные версии книги в понятный ему формат:
-    Shell скрипт:
-        https://github.com/bazhenov-ai/lib/blob/main/bss/backwards_proofreading.sh
-    Питон вариан:
-        https://github.com/bazhenov-ai/lib/blob/main/bss/backwards_proofreading.py
+https://github.com/bazhenov-ai/lib/blob/main/bss/backwards_proofreading.txt
+
+А это программа, которая позволит ему потом самому переводить актуальные версии книги в понятный ему формат: 
+
+Shell скрипт: https://github.com/bazhenov-ai/lib/blob/main/bss/backwards_proofreading.sh
+
+Питон вариан: https://github.com/bazhenov-ai/lib/blob/main/bss/backwards_proofreading.py
 
 ---
 
