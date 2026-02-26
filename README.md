@@ -1,6 +1,6 @@
 # Библиотека моих произведений:
 
-![B.S.S.](https://github.com/bazhenov-ai/lib/blob/main/bss/bss.png)
+![B.S.S.](https://github.com/bazhenov-ai/lib/blob/main/bss/shadows-of-argo.jpg)
 ___
 **Читать** - https://github.com/bazhenov-ai/lib/blob/main/bss/bss.md
 ___
