@@ -2,22 +2,22 @@
 
 ## 📚 Скачать книги
 
-### «Тени Арго»
+### Тени Арго:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/shadows-of-argo.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/shadows-of-argo.epub?download=1) | [📖 FB2 (без иллюстраций)](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/shadows-of-argo-without-pic.fb2?download=1)
-
-### «Операция „Барсик“»
+___
+### Операция Барсик:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_barsik.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_barsik.epub?download=1)
-
-### «Операция „Герметизация“»
+___
+### Операция Герметизация:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_germetizaciya.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_germetizaciya.epub?download=1)
-
-### «Музыка сфер»
+___
+### Музыка сфер:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/muzyka_sfer.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/muzyka_sfer.epub?download=1)
-
-### «Грамотей со стажем»
+___
+### Грамотей со стажем:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/gramotej_so_stazhem.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/gramotej_so_stazhem.epub?download=1)
-
-### «Механическое письмо»
+___
+### Механическое письмо:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/mekhanicheskoe_pismo.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/mekhanicheskoe_pismo.epub?download=1)
 ___
 
