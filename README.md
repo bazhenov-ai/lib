@@ -5,11 +5,11 @@
 ### Тени Арго:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/shadows-of-argo.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/shadows-of-argo.epub?download=1) | [📖 FB2 (без иллюстраций)](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/shadows-of-argo-without-pic.fb2?download=1)
 ___
-### Операция Барсик:
-- [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_barsik.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_barsik.epub?download=1)
-___
 ### Операция Герметизация:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_germetizaciya.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_germetizaciya.epub?download=1)
+___
+### Операция Барсик:
+- [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_barsik.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/operaciya_barsik.epub?download=1)
 ___
 ### Музыка сфер:
 - [📖 FB2](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/muzyka_sfer.fb2?download=1) | [📱 EPUB](https://cdn.jsdelivr.net/gh/bazhenov-ai/lib@main/epub/muzyka_sfer.epub?download=1)
