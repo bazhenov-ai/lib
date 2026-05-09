@@ -2,7 +2,7 @@
 
 ![B.S.S.](https://github.com/bazhenov-ai/lib/blob/main/shadows-of-argo/shadows-of-argo.jpg)
 ___
-**Читать** - https://github.com/bazhenov-ai/lib/blob/main/shadows-of-argo/shadows-of-argo.md
+**Читать** - https://github.com/bazhenov-ai/lib/blob/main/shadows-of-argo/shadows_of_argo.md
 ___
 **Аннотация:**
 Мы — экспедиция, застрявшая у города Предтечей. Связь с Землёй потеряна. И пока мы достраивали древний корабль для возвращения, Ур-Куаны прорвали оборону. Земля теперь заперта непробиваемым рабским щитом.
